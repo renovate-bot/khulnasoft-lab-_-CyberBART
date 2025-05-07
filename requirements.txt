@@ -101,7 +101,7 @@ ninja==1.10.2.2
 notebook==6.1.4
 numba==0.52.0
 numexpr==2.7.3
-numpy==1.19.2
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==20.4
